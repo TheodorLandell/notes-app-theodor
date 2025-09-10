@@ -18,10 +18,8 @@ Som användare
 vill jag kunna göra checklistor
 för att hålla koll på saker jag behöver köpa
 
-borde ha
-Som idrottare
-vill jag anteckna träningar och matcher
-för att planera min fritid bättre
+måste ha 
+Som använndare vill jag kunna söka på gamla antekningar
 
 borde ha 
 Som användare

@@ -9,6 +9,5 @@ vill jag sortera anteckningar i mappar eller med taggar
 för att lättare hitta gamla anteckningar
 
 
-Som idrottare
-vill jag anteckna träningar och matcher
-för att planera min fritid bättre
+Som användare
+vill jag kunna söka efter antekningar

@@ -1,1 +1,1 @@
-https://www.figma.com/proto/TOisxHIXwDV9MHdbSqqYvN/Untitled?node-id=5-6763&p=f&t=hY6WLTFj91J2R3ax-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A6763 
+https://www.figma.com/design/EJVSno6PJc4GODtacwpkgG/Untitled?node-id=0-1&t=L2K5q6Q9g6ByTbdi-1
